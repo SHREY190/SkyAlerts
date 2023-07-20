@@ -1,9 +1,9 @@
 from twilio.rest import Client
 #Recovery code:  4DX-rtE8MYuIr92n4kPHciHRkWXDkz_4q9Mcs3Xd
-TWILIO_SID = "AC738009c86866ce9a48f8373776fa6c01"
-TWILIO_AUTH_TOKEN = "4847585f3360398f51c1641b7af764b6"
-TWILIO_VIRTUAL_NUMBER = "+14027714219"
-TWILIO_VERIFIED_NUMBER = "+918770080485"
+TWILIO_SID = "Twilio SID"
+TWILIO_AUTH_TOKEN = "Authentification Token"
+TWILIO_VIRTUAL_NUMBER = "Twilo Virtual Number"
+TWILIO_VERIFIED_NUMBER = "Verified Personal/User Number"
 
 class NotificationManager:
 
